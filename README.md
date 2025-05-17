@@ -1,2 +1,1 @@
-# wcmm
-Windows Context Menu Manager
+# Windows Context Menu Manager (WCMM)
